@@ -17,7 +17,12 @@ Install project dependencies and run the server with npm
     
 ## Used stacks
 
-HTML, CSS, Next JS, Chakra UI, and AXIOS.
+- HTML, CSS, Next JS, Chakra UI, and AXIOS.
+
+## Design System
+
+- https://chakra-ui.com/
+
 
 ## Production link
-https://pokedex-nextjs-assesment.vercel.app/
+- https://pokedex-nextjs-assesment.vercel.app/
